@@ -1,6 +1,6 @@
 {
   "name": "douyin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple Douyin(Tiktok) API client",
   "main": "index.js",
   "bin": "./bin/index.js",
@@ -10,6 +10,5 @@
   "author": "Lsong",
   "license": "MIT",
   "dependencies": {
-    "tiny-network": "^0.0.3"
   }
 }
