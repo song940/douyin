@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Simple Douyin(Tiktok) API client",
   "main": "index.js",
+  "type": "module",
   "bin": "./bin/index.js",
   "scripts": {
     "test": "node test"
